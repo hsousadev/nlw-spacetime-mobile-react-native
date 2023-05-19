@@ -2,6 +2,7 @@
   "expo": {
     "name": "nlw-spacetime-mobile-react-native",
     "slug": "nlw-spacetime-mobile-react-native",
+    "scheme": "nlwspacetime",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
